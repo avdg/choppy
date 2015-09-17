@@ -9,3 +9,8 @@ The goal is to encourage multiple ways of accidental occured testing. So it migh
 but could be set up in such a manner that submitted tests are customer friendly to report while providing
 an automated way to tests potential bugs in the code. Please note that this project will only set out a framework
 on database level, as implementation requirements can be different for each project.
+
+#Acceptance
+
+Feel free to post anything choppy related. There might be ways to block of irrelevant stuff,
+though this should only happen when there is a lack of agreement of getting these kind of stuff in the repo.
